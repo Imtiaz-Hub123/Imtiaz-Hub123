@@ -1,30 +1,24 @@
-# Hi, I'm Imtiaz 👋
+# Frontend Starter Portfolio
 
-I'm a Computer Science student from Pakistan.  
-Currently learning web development and improving my skills step by step.
+A professional beginner-friendly frontend project built using **HTML, CSS, and JavaScript**.  
+This repository is created as my **first public showcase project on GitHub** to demonstrate clean structure and best practices.
 
-## 👨‍💻 About Me
-- Computer Science student
-- Learning HTML, CSS, and JavaScript
-- Interested in building small web projects
-- Focused on improving daily through practice
+---
 
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript (Beginner)
+## 🚀 Live Demo
+Coming soon (will be deployed using GitHub Pages)
 
-## 🌱 Currently Learning
-- JavaScript
-- Responsive Web Design
+---
 
-## 🎯 Goals
-- Become a skilled Web Developer
-- Build real-world projects
-- Start freelancing in the future
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-## 📫 Contact
-- GitHub: https://github.com/Imtiaz-Hub123
+---
+
+## 📂 Project Structure
+
 
 
 <!--
